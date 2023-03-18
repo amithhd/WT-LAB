@@ -22,7 +22,7 @@ followed by two upper-case characters followed by three digits; no embedded spac
 the user. Event handler must be included for the form element that collects this information to
 validate the input. Messages in the alert windows must be produced when errors are detected.
   
-5.a. Design an XML document to store information about a student in an engineering college.
+5. a. Design an XML document to store information about a student in an engineering college.
 The information must include USN, Name, Name of the College, Brach, Year of Joining, and
 e-mail id. Make up sample data for 3 students. Create a CSS style sheet and use it to display
 the document.
