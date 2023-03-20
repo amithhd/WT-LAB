@@ -1,0 +1,41 @@
+<!doctype=html>
+<html>
+<body>
+	<title>
+		lab3 program2
+	</title>
+	<style>
+
+.container
+	{
+  	position: relative;
+  	text-align: center;
+	color: white;
+	}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+</style>
+
+</body>
+<body>
+	<div class="container">
+	<img src="https://4kwallpapers.com/images/walls/thumbs_3t/7491.jpg" alt="apple" style="width:100%;">
+	<div class="centered">
+	<pre>
+	<h1 style="font-size:30pt;">Apple</h1>
+Apple Inc, formerly Apple Computer, Inc., American manufacturer of personal computers,
+smartphones, tablet computers, computer peripherals, and computer software and one of 
+the most recognizable brands in the world.
+Apple was founded as Apple Computer Company on April 1, 1976, by Steve Wozniak, Steve 
+Jobs and Ronald Wayne to develop and sell Wozniak's Apple I personal computer. It was
+incorporated by Jobs and Wozniak as Apple Computer, Inc. in 1977.
+</pre>
+	</div>
+</body>
+</html>
