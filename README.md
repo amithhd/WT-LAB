@@ -1,5 +1,3 @@
-
-
 # WT-LAB
 
 1. Develop and demonstrate a XHTML document that illustrates the use external style sheet,
