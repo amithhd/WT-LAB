@@ -11,7 +11,7 @@ Output: A table of numbers from 1 to n and their squares using alert
   
 3. Develop and demonstrate a XHTML file that includes Javascript script that uses functions for the
 following problems:
-a. Parameter: A string
+a. Parameter: A strin
 Output: The position in the string of the left-most vowel
 b. Parameter: A number
 Output: The number with its digits in the reverse order
